@@ -1,6 +1,6 @@
 (function (window, $, _, undefined) {
 
-    var linksUrl = 'https://github.com/philpill/industrialnation/blob/master/bookmarks.json';
+    var linksUrl = 'https://raw.githubusercontent.com/philpill/industrialnation/master/bookmarks.json';
 
     var $linksContainer = $('#Bookmarks');
 
