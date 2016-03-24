@@ -185,11 +185,6 @@
         "title": "Lost Garden"
     },
     {
-        "url": "http://www.paintingbuddha.com/",
-        "tag": "misc",
-        "title": "PaintingBuddha"
-    },
-    {
         "url": "http://stilldrinking.org/",
         "tag": "programming",
         "title": "Programming Sucks"
@@ -780,11 +775,6 @@
         "title": "Data Compression Explained"
     },
     {
-        "url": "http://bergdesign.com/plugins/",
-        "tag": "misc",
-        "title": "BergDesign"
-    },
-    {
         "url": "http://gameprogrammingpatterns.com/component.html",
         "tag": "programming",
         "title": "Game Programming Patterns"
@@ -793,11 +783,6 @@
         "url": "http://www.bouf.com/",
         "tag": "portfolio",
         "title": "Bouf"
-    },
-    {
-        "url": "http://natashaloakes.com/",
-        "tag": "portfolio",
-        "title": "Natasha Loakes"
     },
     {
         "url": "http://www.projectrho.com/rocket/index.html",
