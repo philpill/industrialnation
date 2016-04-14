@@ -1,5 +1,10 @@
 [
     {
+        "url": "http://lea.verou.me/",
+        "tag": "programming",
+        "title": "Lea Verou"
+    },    
+    {
         "url": "http://philcalcado.com/",
         "tag": "programming",
         "title": "Phil Calçado"
