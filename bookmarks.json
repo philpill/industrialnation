@@ -1,5 +1,15 @@
 [
     {
+        "url": "http://www.adriancourreges.com/projects/",
+        "tag": "gamedev",
+        "title": "Adrian Courreges"
+    },
+    {
+        "url": "http://polycount.com/",
+        "tag": "gamedev",
+        "title": "Polycount"
+    },
+    {
         "url": "http://lea.verou.me/",
         "tag": "programming",
         "title": "Lea Verou"
