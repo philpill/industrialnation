@@ -1,5 +1,20 @@
 [
     {
+        "url": "http://www.tgomagazine.co.uk/",
+        "tag": "outdoor",
+        "title": "The Great Outdoors"
+    }, 
+    {
+        "url": "https://gearjunkie.com/",
+        "tag": "outdoor",
+        "title": "Gear Junkie"
+    }, 
+    {
+        "url": "http://www.livefortheoutdoors.com/",
+        "tag": "outdoor",
+        "title": "Live for the Outdoors"
+    },    
+    {
         "url": "http://www.adriancourreges.com/projects/",
         "tag": "gamedev",
         "title": "Adrian Courreges"
