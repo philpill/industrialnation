@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://nickbentleygames.wordpress.com/",
+        "tag": "gamedev",
+        "title": "Nick Bentley"
+    },   
+    {
         "url": "https://blog.getify.com/",
         "tag": "programming",
         "title": "Kyle Simpson"
