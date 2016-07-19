@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://adventures.hartleybrody.com/",
+        "tag": "outdoor",
+        "title": "Hartley Brody's Adventure Blog"
+    },     
+    {
         "url": "https://nickbentleygames.wordpress.com/",
         "tag": "gamedev",
         "title": "Nick Bentley"
