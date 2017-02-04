@@ -1,4 +1,28 @@
-[
+[{
+        "url": "http://www.gridsagegames.com/blog/",
+        "tag": "gamedev",
+        "title": "Grid Sage Games"
+    },
+    {
+        "url": "https://jupiterhell.com/",
+        "tag": "gamedev",
+        "title": "Jupiter Hell"
+    },
+    {
+        "url": "http://www.gridsagegames.com/blog/",
+        "tag": "gamedev",
+        "title": "Grid Sage Games"
+    },
+    {
+        "url": "http://www.bay12games.com/dwarves/",
+        "tag": "gamedev",
+        "title": "Dwarf Fortress"
+    },
+    {
+        "url": "https://www.factorio.com/blog",
+        "tag": "gamedev",
+        "title": "Factorio"
+    },
     {
         "url": "http://stephaniehurlburt.com/",
         "tag": "programming",
