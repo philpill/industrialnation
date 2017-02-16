@@ -1,4 +1,10 @@
-[{
+[
+     { 
+         "url": "http://blog.paranoidcoding.com/", 
+         "tag": "programming", 
+         "title" : "Paranoid Coding"
+     },
+     {
         "url": "http://www.gridsagegames.com/blog/",
         "tag": "gamedev",
         "title": "Grid Sage Games"
