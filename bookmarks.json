@@ -1,4 +1,8 @@
-[
+[    {
+         "url": "http://bisqwit.iki.fi/",
+         "tag": "programming",
+         "title": "Bisqwit"
+     },
      { 
          "url": "http://blog.paranoidcoding.com/", 
          "tag": "programming", 
