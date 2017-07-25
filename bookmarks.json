@@ -1,6 +1,54 @@
 [
-  
-  
+{
+  "url": "http://robert.ocallahan.org/",
+  "tag": "programming",
+  "title": "Eyes Above The Waves"
+}, 
+{
+  "url": "http://blog.cwa.me.uk/",
+  "tag": "programming",
+  "title": "The Morning Brew"
+},
+{
+  "url": "http://preshing.com/",
+  "tag": "programming",
+  "title": "Preshing on Programming"
+}, 
+{
+  "url": "http://eli.thegreenplace.net/",
+  "tag": "programming",
+  "title": "Eli Bendersky"
+},
+{
+  "url": "http://programmingisterrible.com/",
+  "tag": "programming",
+  "title": "programming is terrible"
+}, 
+{
+  "url": "https://henrikwarne.com/",
+  "tag": "programming",
+  "title": "Henrik Warne"
+}, 
+{
+  "url": "https://jvns.ca/",
+  "tag": "programming",
+  "title": "Julia Evans"
+}, 
+{
+  "url": "https://eev.ee/",
+  "tag": "programming",
+  "title": "Eevee"
+},
+{
+  "url": "http://ithare.com/",
+  "tag": "programming",
+  "title": "IT Hare"
+}, 
+{
+  "url": "https://eklitzke.org/",
+  "tag": "programming",
+  "title": "Evan Klitzke"
+},  
 {
   "url": "http://www.streetfightercomics.com/",
   "tag": "webcomic",
