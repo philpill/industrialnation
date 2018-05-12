@@ -1,5 +1,15 @@
 [
 {
+  "url": "https://magazine.artstation.com/",
+  "tag": "gamedev",
+  "title": "Art Station"
+},
+{
+  "url": "https://www.gamedev.net/",
+  "tag": "gamedev",
+  "title": "GameDev.net"
+},
+{
   "url": "https://www.creativebloq.com/",
   "tag": "design",
   "title": "Creative Bloq"
