@@ -1,5 +1,15 @@
 [
 {
+  "url": "https://www.scratchapixel.com/",
+  "tag": "gamedev",
+  "title": "Scratchapixel"
+},
+{
+  "url": "http://www.openglsuperbible.com/",
+  "tag": "gamedev",
+  "title": "OpenGL SuperBible"
+},
+{
   "url": "https://magazine.artstation.com/",
   "tag": "gamedev",
   "title": "Art Station"
