@@ -1,0 +1,10 @@
+body {
+    background: #fff;
+    color: #000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    @media (prefers-color-scheme: dark) {
+        background: #000;
+        color: #fff;
+    }
+}
+

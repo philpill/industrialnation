@@ -1,37 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="utf-8">
-	<title>Industrial Nation</title>
-	<link rel="stylesheet" href="in.css" />
-	<!--[if lt IE 9]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+    <meta charset="utf-8" />
+    <title>Industrial Nation</title>
+    <link rel="stylesheet" href="main.css" />
+    <script src="main.js"></script>
 </head>
+
 <body>
-	<h1>
-		<a href="http://industrialnation.co.uk">Industrial Nation</a>
-	</h1>
-	<div id="Bookmarks"></div>
-	<div id="Templates" class="templates">
-		<div class="templates__tag-block">
-			<div class="tag-block">
-				<h2 class="tag-block__title">{{tag}}</h2>
-				<div class="tag-block__links js-{{tag}}"></div>
-			</div>
-		</div>
-		<div class="templates__links-list">
-			<ul class="links-list">
-			</ul>
-		</div>
-		<div class="templates__link">
-			<li>
-				<a href="{{url}}">{{title}}</a>
-			</li>
-		</div>
-	</div>
-	<script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
-	<script src="in.js"></script>
+    <header></header>
+    <div id="Main">
+        <h1>industrial nation</h1>
+        <section id="Bookmarks"></section>
+    </div>
+    <footer></footer>
+    <template id="List">
+        <section>
+            <h2></h2>
+            <ul></ul>
+        </section>
+    </template>
+    <template id="Item">
+        <li><a></a></li>
+    </template>
 </body>
+
 </html>
