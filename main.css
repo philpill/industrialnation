@@ -8,3 +8,20 @@ body {
     }
 }
 
+#Bookmarks {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.listSection {
+    margin-right: 2em;
+}
+
+.list {
+    padding: 0;
+}
+
+.item {
+    list-style-type: '- ';
+    list-style-position: inside;
+}
