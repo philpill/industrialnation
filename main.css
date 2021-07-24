@@ -1,10 +1,9 @@
 body {
-    background: #fff;
-    color: #000;
+    background: #fdfdfd;
+    color: #212121;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     @media (prefers-color-scheme: dark) {
-        background: #000;
-        color: #fff;
+        background: #aaa;
     }
 }
 
@@ -24,4 +23,9 @@ body {
 .item {
     list-style-type: '- ';
     list-style-position: inside;
+}
+
+.bookmark:hover {
+    text-decoration: none;
+    color: red;
 }
