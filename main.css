@@ -1,5 +1,5 @@
 body {
-    background: #fdfdfd;
+    background: #f2f2f2;
     color: #212121;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     @media (prefers-color-scheme: dark) {
@@ -8,21 +8,21 @@ body {
 }
 
 #Bookmarks {
-    display: flex;
-    flex-wrap: wrap;
+    column-width: 250px;
 }
 
 .listSection {
-    margin-right: 2em;
+
 }
 
 .list {
     padding: 0;
+    margin: 0 10px;
 }
 
 .item {
     list-style-type: '- ';
-    list-style-position: inside;
+    list-style-position: outside;
 }
 
 a:hover {
