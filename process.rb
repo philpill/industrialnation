@@ -1,11 +1,12 @@
 require 'nokogiri'
 require 'json'
+require 'htmlcompressor'
 
-doc = Nokogiri::HTML(open("bookmarks.html"))
-template = Nokogiri::HTML(open("template.html"))
+doc = Nokogiri::HTML(open('bookmarks.html'))
+template = Nokogiri::HTML(open('template.html'))
 
 
-links = doc.css("a")
+links = doc.css('a')
 
 templateItems = []
 tagLabels = []
@@ -60,17 +61,13 @@ tagLabels.each do |tag|
     end
 end
 
+template.at('#List')&.remove
+template.at('#Item')&.remove
 
-# tags.each do |tag|
-#     puts tag
-#     tags[tag]&.each do |val|
-#         puts val
-#     end
-# end
+compressor = HtmlCompressor::Compressor.new
+template = compressor.compress(template.to_html)
 
-# puts template
-
-File.open("index.html", "a+") do |f|
+File.open('index.html', 'a+') do |f|
     f.truncate(0)
     f.write(template)
 end
