@@ -10,13 +10,6 @@ body {
 
 @media only screen and (min-resolution: 2dppx)  {
     body {
-        font-size: 1.5rem;
-    }
-}
-
-
-@media only screen and (min-resolution: 3dppx)  {
-    body {
         font-size: 2rem;
     }
 }
@@ -36,6 +29,12 @@ a {
 
 #Bookmarks {
     column-width: 250px;
+}
+
+@media only screen and (min-resolution: 2dppx)  {
+    #Bookmarks {
+        column-width: 500px;
+    }
 }
 
 .list {
