@@ -1,5 +1,5 @@
 body {
-    font-size: 2rem;
+    font-size: 1rem;
     background: #FAF9F6;
     color: #212121;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -8,9 +8,16 @@ body {
     }
 }
 
-@media (min-width:801px)  {
+@media only screen and (min-resolution: 2dppx)  {
     body {
-        font-size: 1rem;
+        font-size: 1.5rem;
+    }
+}
+
+
+@media only screen and (min-resolution: 3dppx)  {
+    body {
+        font-size: 2rem;
     }
 }
 
